@@ -4,6 +4,10 @@
 
 Mac-like smooth scrolling for a Linux virtual machine running in [UTM](https://getutm.app/) (QEMU backend with SPICE) on a Mac. Out of the box, scrolling with a trackpad or Magic Mouse in such a guest jumps several lines at a time. This tool turns it into smooth, finger-following scrolling, with a settings window and a tray icon.
 
+![Before and after: the same recorded trackpad gestures replayed without and with the daemon](docs/demo.gif)
+
+*The same recorded trackpad gestures, replayed without the tool (whole wheel clicks) and with it.*
+
 ![Settings window](docs/screenshot.png)
 
 ## Why scrolling jumps, and what this does about it
