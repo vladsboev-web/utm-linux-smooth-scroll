@@ -1,0 +1,2 @@
+# smooth-scroll: high resolution for the scroll device — 1 raw unit = 1/120 of a wheel click
+ACTION=="add|change", SUBSYSTEM=="input", KERNEL=="event*", ATTRS{name}=="smooth scroll wheel", ENV{MOUSE_DPI}="8000@1000"

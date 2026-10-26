@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Smooth Scrolling (tray icon)
+Name[ru]=Плавная прокрутка (значок)
+Comment=Smooth scrolling tray icon
+Comment[ru]=Значок плавной прокрутки в трее
+Exec=/usr/local/bin/smooth-scroll-settings --tray
+Icon=input-mouse
+X-GNOME-Autostart-enabled=true

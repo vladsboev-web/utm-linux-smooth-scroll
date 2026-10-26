@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Smooth Scrolling
+Name[ru]=Плавная прокрутка
+Comment=Smooth scrolling settings for Linux in UTM
+Comment[ru]=Настройки плавной прокрутки для Linux в UTM
+Exec=/usr/local/bin/smooth-scroll-settings
+Icon=input-mouse
+Categories=Settings;DesktopSettings;
